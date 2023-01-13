@@ -3,7 +3,7 @@ Python code which computes internal force corrections between semiempirical and 
 
 "Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Kim, B.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May, P.; Keeton, S.; Hege, M.; Shao, Y.; Pu, J. J. Chem. Theory Comput. 2021, 17, 4961-4980 (doi: 10.1021/acs.jctc.1c00245; PMID:34283604).
 
-![alt text](https://pubs.acs.org/cms/10.1021/acs.jctc.1c00245/asset/images/medium/ct1c00245_0014.gif)
+![My Image](lib/rpfmcv.gif)
 
 Author: Bryant Kim  
 Email: brykimjh@gmail.com  
