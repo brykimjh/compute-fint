@@ -7,6 +7,7 @@ Python code which computes internal force corrections between semiempirical and 
 
 Author: Bryant Kim  
 Email: brykimjh@gmail.com  
+LinkedIn: https://www.linkedin.com/in/bryant-kim-1aba7522b/  
 Website: https://wikipugr.sitehost.iu.edu/wiki/index.php?title=The_Pu_Research_Group  
 
 To run python script:
