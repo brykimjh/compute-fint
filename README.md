@@ -1,7 +1,13 @@
 # compute_fint
 Python code which computes internal force corrections between semiempirical and ab initio methods.
 
-To run script
+"Reaction Path-Force Matching in Collective Variables: Determining Ab Initio QM/MM Free Energy Profiles by Fitting Mean Force," Kim, B.; Snyder, R.; Nagaraju, M.; Zhou, Y.; Ojeda-May, P.; Keeton, S.; Hege, M.; Shao, Y.; Pu, J. J. Chem. Theory Comput. 2021, 17, 4961-4980 (doi: 10.1021/acs.jctc.1c00245; PMID:34283604).
+
+Author: Bryant Kim
+Email: brykimjh@gmail.com
+Website: https://wikipugr.sitehost.iu.edu/wiki/index.php?title=The_Pu_Research_Group
+
+To run python script:
 ```
 $ python3 run.py
 ```
