@@ -24,4 +24,4 @@ $ python3 run.py
 | user/         | contains custom input files for different chemical systems, and job submission scripts for different clusters  |
 | job.slurm     | job submission script (python3 run.py to run code)  |
 | run.py        | driver file for RP-FM-CV (enhanced sampling and machine learning components are omitted)  |
-| step.txt      | indicates current iteration of string QM/MM-MD  |
+| step.txt      | file which contains current iteration of string QM/MM-MD  |
