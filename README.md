@@ -1,7 +1,10 @@
 # compute_fint
 Python code which computes internal force corrections between semiempirical and ab initio methods.
 
-$ python3 run.py to run script.
+To run script
+```
+$ python3 run.py
+```
 
 | File/Directory| Description   |
 | ------------- | ------------- |
